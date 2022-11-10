@@ -7,7 +7,7 @@ public class reto7 {
 		  int veces;
 		  double total = 0;
 		  double promedio;
-		  System.out.println("Ingrese la cantidad de competidores");
+		  System.out.println("Ingrese la cantidad de notas que quiere promediar");
 		  veces = s.nextInt();
 		  double[] notas = new double[veces];
 		  for(int i = 0 ; i< veces ; i++) {
